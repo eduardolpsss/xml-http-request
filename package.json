@@ -1,0 +1,21 @@
+{
+  "name": "xmlhttprequestfile",
+  "version": "1.0.0",
+  "description": "Uploading images to the server using Ajax.",
+  "main": "server.js",
+  "scripts": {
+    "start": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "1.18.2",
+    "bootstrap": "^5.2.1",
+    "express": "4.16.3",
+    "multer": "1.3.0"
+  },
+  "devDependencies": {
+    "nodemon": "1.17.3"
+  }
+}

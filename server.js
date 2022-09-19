@@ -41,4 +41,4 @@ app.post('/upload', (req, res) => {
 })
 
 // Verficando se o servidor está rodando na porta 8081 e retornando no console
-app.listen(8081, () => console.log('Executando servidor local'))
+app.listen(8081, () => console.log('Executando servidor (porta 8081): http://localhost:8081/'))

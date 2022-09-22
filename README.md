@@ -1,2 +1,2 @@
 # xmlHttpRequestFile
- Uploading images to the server using Ajax.
+Uploading images to a upload file using xmlHttpRequest with Ajax.
